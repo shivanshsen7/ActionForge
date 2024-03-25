@@ -1,5 +1,6 @@
 {
   "orgName": "shivansh-wsl-ubuntu company",
+  "hasSampleData": "true",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
